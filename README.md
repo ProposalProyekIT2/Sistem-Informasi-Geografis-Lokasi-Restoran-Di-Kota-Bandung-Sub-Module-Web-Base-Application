@@ -2,6 +2,10 @@
 SISTEM INFORMASI GEOGRAFIS LOKASI RESTORAN DI KOTA BANDUNG (SUB MODUL WEB BASE APPLICATION)
 </h3>
 
+<p align="center">
+  <img src="https://github.com/ProposalProyekIT2/Sistem-Informasi-Geografis-Lokasi-Restoran-Di-Kota-Bandung-Sub-Module-Web-Base-Application/blob/master/img/icon.png">
+</p>
+
 ABOUT MY SELF
 -------
 
