@@ -37,11 +37,12 @@ $con=mysqli_connect("localhost","root","");
         while($row = mysqli_fetch_array($result))
 {
             $nama = $row['nama_tempat'];
+            $tentang = $row['deskripsi'];
             $lat = $row['mlat'];
             $lon = $row['mlong'];
 
 
-            echo ("addMarker($lat, $lon, '<b>$nama</b>');\n");
+            echo ("addMarker($lat, $lon, '<b>$nama</b> <br> $tentang</br>', '$tentang');");
 }
      ?>
         // Proses membuat marker
