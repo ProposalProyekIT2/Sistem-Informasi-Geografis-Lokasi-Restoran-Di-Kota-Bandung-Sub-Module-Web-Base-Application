@@ -11,7 +11,7 @@
 
 
 
-**ABSTRAK **
+**ABSTRAK**
 
 Kota Bandung merupakan salah satu kota di Provinsi Jawa Barat dan merupakan salah satu kota besar yang ada di Indonesia. Kota Bandung saat ini menjadi salah satu dari lima kota yang ditetapkan sebagai destinasi wisata kuliner di Indonesia. Sistem Informasi Geografis merupakan salah satu sistem informasi yang menekankan pada unsur “informasi geografis”. Di saat seperti ini dimana perkembangan teknologi semakin pesat dan orang- orang lebih sering menggunakan smartphone untuk mencari informasi, baik menggunakan browser ataupun aplikasi yang ada di Android mereka. Dalam pembuatan aplikasi ini akan menggunakan AngularJS, MySQL sebagai database nya dan memanfaatkan Google Map Service sebagai penyedia lokasi. Selain itu untuk menggambarkan proses kerja akan menggunakan diagram UML. 
 Oleh karena itu pengembangan yang akan dilakukan pada sistem ini menggunakan platform android yang bisa di akses oleh seluruh pengguna yang menggunakan aplikasi ini dapat menggunakannya kapanpun dan dimanapun. Dan aplikasi ini juga dilengkapi dengan sistem yang menggunakan aplikasi web yang dimana akan memudahkan admin untuk mendata maupun memasuk data- data lokasi wisata kulier yang ada di Bandung. Dengan adanya aplikasi ini pengguna dapat dengan mudah melakukan pencarian lokasi wisata kuliner menggunakan Android mereka masing-masing menggunakan fitur Google Maps yang telah disediakan. Selain itu, pengguna dapat mengetahui rute yang bisa dilalui untuk menuju ke lokasi wisata kuliner yang di tuju.
