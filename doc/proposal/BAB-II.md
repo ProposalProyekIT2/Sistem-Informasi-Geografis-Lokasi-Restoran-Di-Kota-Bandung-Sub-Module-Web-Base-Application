@@ -10,7 +10,7 @@ Sistem (system) dapat didiefinisikan dengan pendekatan prosedur dan dengan pende
 
 **2.2	Informasi**
 
-	Informasi adalah Kumpulan Fakta (data) yang diorganisasikan dengan cara tertentu sehingga mereka memiliki arti bagi si penerimanya. (Sutarman, 2012) [2]
+Informasi adalah Kumpulan Fakta (data) yang diorganisasikan dengan cara tertentu sehingga mereka memiliki arti bagi si penerimanya. (Sutarman, 2012) [2]
 
 **2.3	Sistem Informasi**
 	Sistem Informasi adalah sistem yang dapat didefinisikan dengan mengumpulkan, memproses, menyimpan, menganalisis, menyebarkan informasi untuk tujuan tertentu. Seperti sistem lainnya, sebuah sistem informasi terdiri atas input (data, instruksi) dan output) laporan dan kalkulasi). (Sutarman, 2012)
