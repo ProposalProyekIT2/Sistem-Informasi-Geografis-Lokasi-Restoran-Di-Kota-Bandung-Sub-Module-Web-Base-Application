@@ -1,3 +1,4 @@
+
                                                  SISTEM INFORMASI GEOGRAFIS LOKASI WISATA 
                                                           KULINER DI KOTA BANDUNG 
                                                     (SUB MODUL ACCELERATED MOBILE PAGES)
@@ -8,22 +9,24 @@
                                               Email: ayuanggaraspentwo@gmail.com, rolly@awang.ga
 	
 
-ABSTRAK 
+
+
+**ABSTRAK **
 Kota Bandung merupakan salah satu kota di Provinsi Jawa Barat dan merupakan salah satu kota besar yang ada di Indonesia. Kota Bandung saat ini menjadi salah satu dari lima kota yang ditetapkan sebagai destinasi wisata kuliner di Indonesia. Sistem Informasi Geografis merupakan salah satu sistem informasi yang menekankan pada unsur “informasi geografis”. Di saat seperti ini dimana perkembangan teknologi semakin pesat dan orang- orang lebih sering menggunakan smartphone untuk mencari informasi, baik menggunakan browser ataupun aplikasi yang ada di Android mereka. Dalam pembuatan aplikasi ini akan menggunakan AngularJS, MySQL sebagai database nya dan memanfaatkan Google Map Service sebagai penyedia lokasi. Selain itu untuk menggambarkan proses kerja akan menggunakan diagram UML. 
 Oleh karena itu pengembangan yang akan dilakukan pada sistem ini menggunakan platform android yang bisa di akses oleh seluruh pengguna yang menggunakan aplikasi ini dapat menggunakannya kapanpun dan dimanapun. Dan aplikasi ini juga dilengkapi dengan sistem yang menggunakan aplikasi web yang dimana akan memudahkan admin untuk mendata maupun memasuk data- data lokasi wisata kulier yang ada di Bandung. Dengan adanya aplikasi ini pengguna dapat dengan mudah melakukan pencarian lokasi wisata kuliner menggunakan Android mereka masing-masing menggunakan fitur Google Maps yang telah disediakan. Selain itu, pengguna dapat mengetahui rute yang bisa dilalui untuk menuju ke lokasi wisata kuliner yang di tuju.
 
-Kata Kunci: AngularJS, MySQL, Google Maps, Web, Bandung, Sistem Informasi Geografis.
+**Kata Kunci**: AngularJS, MySQL, Google Maps, Web, Bandung, Sistem Informasi Geografis.
 
-ABSTRACT
-Bandung is one of city in West Java Province. Bandung is one of the largest cities in Indonesia. Bandung is now becoming one of the five cities designated as culinary tourism destinations in Indonesia. Geographic Information System is one of information system that emphasizes the element of "geographic information". At the time like today where the rapid technological developments and the more frequently people use smartphones to find information, using either a browser (web) or existing applications on their smartphones. In making this application will use AngularJS, MySQL as its database and take advantage of Google Map Service as a location provider. In addition to describe the work process will use the UML diagram.
-Therefore, the development will be done on this system uses the android platform that can be accessed by all users who use this application, anytime and anywhere. And this application is also equipped with a system that uses a web application to make admin easily to record and entered data into culinary tour in Bandung. With this application, users can easily search for culinary destination using their Android and with Google Maps feature that has been provided. Additionally, the user can know the route that can be passed on to locations in culinary tourism destination.
+***ABSTRACT***
+*Bandung is one of city in West Java Province. Bandung is one of the largest cities in Indonesia. Bandung is now becoming one of the five cities designated as culinary tourism destinations in Indonesia. Geographic Information System is one of information system that emphasizes the element of "geographic information". At the time like today where the rapid technological developments and the more frequently people use smartphones to find information, using either a browser (web) or existing applications on their smartphones. In making this application will use AngularJS, MySQL as its database and take advantage of Google Map Service as a location provider. In addition to describe the work process will use the UML diagram.*
+*Therefore, the development will be done on this system uses the android platform that can be accessed by all users who use this application, anytime and anywhere. And this application is also equipped with a system that uses a web application to make admin easily to record and entered data into culinary tour in Bandung. With this application, users can easily search for culinary destination using their Android and with Google Maps feature that has been provided. Additionally, the user can know the route that can be passed on to locations in culinary tourism destination.*
 
-Key Words: AngularJS, MySQL, Google Maps, Web, Bandung, Information System
+***Key Words:** **AngularJS, MySQL, Google Maps, Web, Bandung, Information System**
 
- 
- 
-I. PENDAHULUAN
-1.1	Latar Belakang
+**I. PENDAHULUAN**
+
+**1.1	Latar Belakang**
+
 Kota Bandung merupakan salah satu kota di Provinsi Jawa Barat dan merupakan salah satu kota besar yang ada di Indonesia. Kota kembang merupakan sebutan lain untuk kota Bandung. Kota Bandung juga dikenal sebagai kota belanja, dengan mall dan outler yang banyak tersebar di kota ini. Kota Bandung juga saat ini menjadi salah satu dari lima kota yang ditetapkan sebagai destinasi wisata kuliner di Indonesia, oleh sebab itu sekarang banyak bermunculan restoran, kafe ataupun tempat wisata kuliner lainnya di kota ini yang dikembangkan oleh para pengusaha di bidang kuliner sebagai tempat wisata kuliner. 
 Lokasi kuliner yang semakin banyak mengakibatkan para penikmat kuliner serta wisatawan sulit untuk mencari lokasi wisata kuliner yang sesuai dengan yang diinginkan. Selama ini para wisatawan ini mencari lokasi wisata kuliner denga cara manual yaitu dengan cara mengunjungi langsung. Bagi para wisatawan cara seperti ini itu tentu sangat kurang efektif karena menghabiskan banyak waktu. 
 Di saat seperti ini dimana perkembangan teknologi semakin pesat dan orang- orang lebih sering menggunakan android untuk mencari informasi, baik menggunakan browser (web) ataupun aplikasi yang ada di android mereka. Oleh karena itu pengembangan yang akan dilakukan pada sistem ini menggunakan platform android yang bisa di akses oleh seluruh pengguna yang menggunakan aplikasi ini kapanpun dan dimanapun. Dan aplikasi ini juga dilengkapi dengan sistem yang menggunakan aplikasi web agar memudahkan admin untuk mendata maupun memasuk data- data lokasi wisata kulier yang ada di Bandung. 
@@ -31,27 +34,32 @@ Dengan adanya aplikasi ini pengguna dapat dengan mudah melakukan pencarian lokas
 Sistem Informasi Geografis (SIG) ini diharapkan dapat menjadi salah satu layanan yang dapat membatu wisatawan serta pemerintah untuk mempromosikan Kota Bandung sebagai Kota Kuliner di Indonesia.
 Berdasarkan masalah diatas, kami disini berusaha untuk merancang sebuah sistem yang dapat menyajikan informasi tentang lokasi wisata kuliner yang ada di Kota Bandung yaitu Sistem Informasi Geografis Lokasi Wisata Kuliner di Kota Bandung (Sub Modul Accelerated Mobile Pages).
 
-1.2	 Identifikasi Masalah
+**1.2	 Identifikasi Masalah**
+
 Identifikasi masalah pada Aplikasi Sistem Informasi Geografis Lokasi Wisata Kuliner di Kota Bandung (Sub Modul Accelerated Mobile Pages) adalah sebagai berikut:
 1.	Bagaimana mempermudah dan mempercepat proses pencarian informasi mengenai lokasi dan data terkait mengenai lokasi wisata kuliner yang ada di Kota Bandung?
 2.	Bagaimana cara menyejikan dan mengolah data lokasi wisata kuliner yang ada di Kota Bandung berbasis web?
-1.3	Tujuan
+
+**1.3	Tujuan**
 Tujuan dari pembuatan Aplikasi Sistem Informasi Geografis Lokasi Wisata Kuliner di Kota Bandung (Sub Modul Accelerated Mobile Pages) adalah sebagai berikut:
 1.	Menyajikan informasi data terkait lokasi wisata kuliner di Kota Bandung dengan aplikasi Sistem Informasi Geografis.
 2.	Menyajikan akses kepada Admin untuk melakukan kelola data terkait lokasi wisata kuliner yang ada di Kota Bandung.
 
-1.4	Ruang Lingkup Masalah 
+**1.4	Ruang Lingkup Masalah **
 Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
 1.	Daerah yang menjadi objek dalam Sistem Informasi ini adalah Kota Bandung.
 2.	Sistem informasi ini terfokus pada Sistem Informasi berbasis web yang dimana dalam hal ini yang dapat mengakses melalui web hanya admin.
 3.	Aplikasi ini dirancang dengan model bahasa pemograman berbasis web dan mobile.
 4.	Informasi yang diberikan aplikasi ini dibagi atas 3 kategori, diantaranya : pagi, siang dan malam. Yang akan dijelaskan pada setiap deskripsi wisata kuliner yang menunjukkan jam buka dan jam tutup setiap wisata kuliner tersebut.
 
-II. LANDASAN TEORI
-2.1	Sistem
+**II. LANDASAN TEORI**
+
+**2.1	Sistem**
+
 Sistem (system) dapat didiefinisikan dengan pendekatan prosedur dan dengan pendekatan komponen. Dengan pendekatan prosedur, sistem dapat didefinisikan sebagi kumpulan dari prosedur–prosedur yang mempunyai tujuan tertentu. Contoh sistem yang didefinisikan dengan pendekatan ini adalah sistem akuntansi. (Mustakini, 2009) [1]
 
-2.2	Informasi
+**2.2	Informasi**
+
 Informasi adalah Kumpulan Fakta (data) yang diorganisasikan dengan cara tertentu sehingga mereka memiliki arti bagi si penerimanya. (Sutarman, 2012) [2]
 
 2.3	Sistem Informasi
