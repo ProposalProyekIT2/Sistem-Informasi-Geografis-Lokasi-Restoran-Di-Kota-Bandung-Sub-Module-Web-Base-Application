@@ -1,11 +1,11 @@
                                                  SISTEM INFORMASI GEOGRAFIS LOKASI WISATA 
-                                                                KULINER DI KOTA BANDUNG 
-                                  (SUB MODUL ACCELERATED MOBILE PAGES)
-Ayu Anggara, Rolly Maulana Awangga
-Program Studi DIV Teknik Informatika 
-Politeknik Pos Indonesia
-Jl. Sari Asih No. 54 – Bandung 40151, Indonesia Tlp. +6222 2009570, Fax. +6222 200 9568
-Email: ayuanggaraspentwo@gmail.com, rolly@awang.ga
+                                                          KULINER DI KOTA BANDUNG 
+                                                    (SUB MODUL ACCELERATED MOBILE PAGES)
+                                                     Ayu Anggara, Rolly Maulana Awangga
+                                                    Program Studi DIV Teknik Informatika 
+                                                           Politeknik Pos Indonesia
+                               Jl. Sari Asih No. 54 – Bandung 40151, Indonesia Tlp. +6222 2009570, Fax. +6222 200 9568
+                                              Email: ayuanggaraspentwo@gmail.com, rolly@awang.ga
 	
 
 ABSTRAK 
