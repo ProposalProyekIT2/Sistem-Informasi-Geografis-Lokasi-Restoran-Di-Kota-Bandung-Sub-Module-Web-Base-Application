@@ -196,7 +196,8 @@ c.	VGA	: Intel® Ivybridge Mobile
 d.	Harddisk	: 500 GB
 e.	Monitor	: 14 inch
 
-4.1.2 Tampilan Antar Muka
+**4.1.2 Tampilan Antar Muka**
+
 Berdasarkan perancangan yang telah dibuat untuk antar muka, didapat hasil dari implementasi yang terdiri dari beberapa cuplikan Halaman antara lain: 
 
 
@@ -207,28 +208,44 @@ Berdasarkan perancangan yang telah dibuat untuk antar muka, didapat hasil dari i
 
 
 Gambar 4.2 Interface Form Home
-V. KESIMPULAN DAN SARAN
-5.1	Kesimpulan
+
+**V. KESIMPULAN DAN SARAN**
+
+**5.1	Kesimpulan**
+
 Kesimpulan yang dapat diambil dari Sistem Informasi Geografis Lokasi Wisata Kuliner di Kota Bandung (Sub Modul Accelerated Mobile Pages) adalah sebagai berikut:
+
 1.	Menghasilkan aplikasi yang dapat membantu wisatawan menemukan lokasi wisata kuliner yang ada di Kota Bandung
 2.	Menghasilkan aplikasi yang dapat membantu wisatawan mengetahui detail informasi lokasi wisata kuliner di Kota Bandung
 
-5.2	Saran
+**5.2	Saran**
+
 Dari kesimpulan diatas, ada beberapa saran yang diharapkan dapat membantu dan mengatasi kekurangan dari aplikasi ini yaitu:
+
 1.	Aplikasi dapat dikembangkan dengan menambahkan fungsi atau fitur – fitrur yang dapat memudahkan penggunaan aplikasi
 2.	Sistem ini dapat diperluas ruang lingkupnya yang tidak hanya di Kota Bandung saja, tetapi di daerah- daerah lainnya.
+
 
 DAFTAR PUSTAKA
 
 [1] 	Mustakini. Sistem Informasi Teknologi. Andi Offset. Yogyakarta. 2009.
+
 [2]	Sutarman. Pengantar Teknologi. Bumi Aksara. Jakarta. 2012.
+
 [3] 	Eddy, P. Konsep- Konsep Dasar  Sistem Informasi Geografis. Informatika. Bandung. 2001.
+
 [4]  Charter, D. Desain dan Aplikasi GIS (Geographics Information System ) . Elex Media Komputindo. Jakarta. 2004.
+
 [5] 	Simarmata, J. Rekayasa Web. Andi Offset. Yogyakarta. 2010.
+
 [6] 	Sidik, B. Pemrograman Web Dengan HTML. Informatika. Bandung. 2012.
+
 [7] 	Oktavian. Menjadi Programmer Jempolan Menggunakan PHP. Mediakom. Yogyakarta. 2010.
+
 [8] 	Nugroho, B. Database Relasional Dengan MySQL. Andi. Yogyakarta. 2014.
+
 [9] 	Kusrini. Strategi Perencanaan dan Pengelolaan Basis Data. Andi. Yogyakarta. 2007.
+
 [10] 	Kadir, A. Mudah Mempelajari Database MySQL. Andi. Yogyakarta. 2007
 
 
